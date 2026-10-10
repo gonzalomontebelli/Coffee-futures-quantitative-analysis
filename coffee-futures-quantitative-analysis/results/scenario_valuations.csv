@@ -1,0 +1,7 @@
+scenario,classification,spot_price,volatility_annual,futures,call,interpretation
+Base case,forage_inputs,1.2,0.25,1.2181356775388628,0.07119332992775142,Given teaching assumptions
+Severe drought / supply loss,analyst_hypothesis,1.38,0.35,1.400856029169692,0.2172814496478692,Crop loss increases spot and volatility
+Bumper harvest,analyst_hypothesis,1.08,0.28,1.0963221097849765,0.034820295483670397,Abundant supply reduces spot
+Stronger global demand,analyst_hypothesis,1.296,0.3,1.3155865317419717,0.1428362092900905,Consumption demand increases spot
+Demand slowdown,analyst_hypothesis,1.104,0.3,1.1206848233357538,0.04790400887618712,Weak consumption reduces spot
+Trade / geopolitical disruption,analyst_hypothesis,1.344,0.38,1.3643119588435264,0.2021197550525477,Logistics or trade restrictions raise spot

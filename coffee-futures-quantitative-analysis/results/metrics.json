@@ -1,0 +1,23 @@
+{
+  "unit": "USD per lb except where specified",
+  "market_data_status": "Instructional inputs; no live quotes or historical market data",
+  "futures_usd_per_lb": 1.2181356775388628,
+  "black_scholes_spot_call_usd_per_lb": 0.06835799021526595,
+  "black76_call_usd_per_lb": 0.07119332992775142,
+  "mc_call_usd_per_lb": 0.07140520327430337,
+  "mc_call_standard_error": 0.0002880628758915513,
+  "mc_call_95_ci_low": 0.07084060003755593,
+  "mc_call_95_ci_high": 0.07196980651105081,
+  "mc_terminal_mean_usd_per_lb": 1.2180905862405191,
+  "mc_simulations": 200000,
+  "mc_seed": 42,
+  "one_month_95pct_parametric_var_usd": 14244.85026446947,
+  "illustrative_supplier_expected_credit_loss_usd": 3600.0,
+  "structured_note_budget_per_100usd": {
+    "principal_pv": 99.0049833749168,
+    "coupon_pv": 0.19800996674983362,
+    "embedded_option_pv": 0.5695466394220113,
+    "total_pv": 99.77253998108866,
+    "headroom_before_costs": 0.22746001891134426
+  }
+}
